@@ -1,4 +1,2 @@
-Hello Git
-New line
-New line2
-Change from copy A
+ New changes 
+Different line
